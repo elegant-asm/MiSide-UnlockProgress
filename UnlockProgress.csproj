@@ -75,4 +75,8 @@
       <Private>False</Private>
     </Reference>
   </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy &quot;$(TargetPath)&quot; &quot;R:\SteamLibrary\steamapps\common\MiSide\BepInEx\plugins&quot;" />
+  </Target>
 </Project>

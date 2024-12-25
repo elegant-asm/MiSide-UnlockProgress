@@ -2,7 +2,7 @@
 
 **BY GAME UPDATE MOD WILL AUTOMATICALLY GIVE YOU ACHIEVEMENTS AND LOAD LOCATIONS, BUT NOT CLOTHES, CARTRIGES AND DRIVERS. I WILL UPDATE IT MOD AS GAME UPDATED.**
 
-Unlocks every cartrige and drive (players, mitas information), every clothes and achievements, and even you can load any locaiton.
+Unlocks every achievement, cloth, chapter, personage and Mita.
 
 On game launch you will get everything!
 

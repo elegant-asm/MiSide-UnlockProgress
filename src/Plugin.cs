@@ -3,6 +3,7 @@ using BepInEx.Logging;
 using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
 using System.Linq;
+using static Menu;
 
 namespace UnlockProgress;
 
